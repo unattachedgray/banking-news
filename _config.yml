@@ -1,0 +1,6 @@
+title: Banking Industry Daily
+description: Daily banking industry intelligence reports
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
