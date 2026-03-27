@@ -175,3 +175,8 @@ FDIC 의장 Travis Hill이 3월 11일 ABA Washington Summit에서 [규제 도구
 ---
 
 *Banking Industry Daily Intelligence — 2026년 3월 27일*
+
+
+---
+
+**GitHub Pages**: https://unattachedgray.github.io/banking-news/reports/2026/2026-03-27-banking-daily-kr
