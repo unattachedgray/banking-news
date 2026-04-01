@@ -16,3 +16,4 @@ Daily banking industry intelligence reports, auto-generated and archived.
 ---
 
 *Reports are generated daily by automated research agents and archived here for reference.*
+| 2026-04-01 | [banking industry](reports/2026/2026-04-01-banking-daily-kr.md) | Korean |
