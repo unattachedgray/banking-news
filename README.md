@@ -30,6 +30,7 @@ Daily banking industry intelligence reports, auto-generated and archived.
 | 2026-04-15 | [banking industry](reports/2026/2026-04-15-banking-daily-kr.md) | Korean |
 | 2026-04-16 | [banking industry](reports/2026/2026-04-16-banking-daily-kr.md) | Korean |
 | 2026-04-17 | [banking industry](reports/2026/2026-04-17-banking-daily-kr.md) | Korean |
+| 2026-04-20 | [banking industry](reports/2026/2026-04-20-banking-daily-kr.md) | Korean |
 
 ---
 
