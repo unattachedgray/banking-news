@@ -46,6 +46,7 @@ Daily banking industry intelligence reports, auto-generated and archived.
 | 2026-05-12 | [banking industry](reports/2026/2026-05-12-banking-daily-kr.md) | Korean |
 | 2026-05-13 | [banking industry](reports/2026/2026-05-13-banking-daily-kr.md) | Korean |
 | 2026-05-14 | [banking industry](reports/2026/2026-05-14-banking-daily-kr.md) | Korean |
+| 2026-05-15 | [banking industry](reports/2026/2026-05-15-banking-daily-kr.md) | Korean |
 
 ---
 
